@@ -11,3 +11,6 @@ git clone  => exact copy of remote repository to local workspace
 git push    => local workspace to remote repository
 
 git pull    => remote repository to local workspace
+
+git remote add name remote_path 
+
