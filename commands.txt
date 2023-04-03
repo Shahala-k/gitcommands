@@ -12,5 +12,7 @@ git push    => local workspace to remote repository
 
 git pull    => remote repository to local workspace
 
-git remote add name remote_path 
+git remote add name remote_path
+
+git remote -v  => to know remote name 
 
